@@ -3,7 +3,7 @@
 theme: seriph
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
-background: ./images/globe.png
+background: /globe.png
 # some information about your slides, markdown enabled
 title: U.S. Policy on Cybersecurity
 info: |
@@ -36,7 +36,19 @@ src: ./pages/toc.md
 ---
 
 ---
-src: ./pages/importance.md
+src: ./pages/significance.md
+---
+
+---
+src: ./pages/ncs.md
+---
+
+---
+src: ./pages/ncs_commentary.md
+---
+
+---
+src: ./pages/gao_ncs.md
 ---
 
 # What is Slidev?
