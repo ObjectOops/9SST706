@@ -32,6 +32,10 @@ Alex Y.
 2024
 
 ---
+src: ./pages/toc.md
+---
+
+---
 src: ./pages/importance.md
 ---
 
