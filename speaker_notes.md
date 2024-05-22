@@ -30,3 +30,8 @@ A lot of key infrastructure relies on computing technology.
 ## Slide 4 - GAO Perspective on the NCS
 
 - The GAO reported being told that there was no good objective way of accomplishing this However, the GAO thinks that there should be, such as using monetary values for damages caused by cyberattacks as a means of measuring the effectiveness of measures taken against such attacks.
+
+## Slide 5 - Agency Overview
+
+- A lot of agencies operate under their parent federal departments or are an operational arm as in the case with the CISA and the DHS.
+- This presentation covers some of the more prevalent ones.
