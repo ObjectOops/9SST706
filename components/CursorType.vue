@@ -4,7 +4,7 @@ import { useNav } from '@slidev/client/composables/useNav.ts';
 
 const props = defineProps<{
   speed?: number
-  id?: string
+  slide?: number
 }>();
 const slots = useSlots();
 
@@ -21,13 +21,16 @@ onMounted(() => {
     let i = 0;
 
     watch(currentPage, () => {
-      if (currentPage.value.substring(1) === props.id?.toString()) {
+      if (currentPage.value.substring(1) === props.slide?.toString()) {
         if (timeout) {
           clearTimeout(timeout);
         }
         interval = setInterval(() => {
           if (i < text.value.length) {
-            writer.value += text.value[i];
+            writer.value = 
+              writer.value.substring(0, writer.value.length - 1) 
+              + text.value[i] 
+              + (i < text.value.length - 1 ? '█' : ' ');
             ++i;
           } else {
             clearInterval(interval);
@@ -40,7 +43,7 @@ onMounted(() => {
           if (interval) {
             clearInterval(interval);
           }
-        }, 200);
+        }, 500);
       }
     });
   }
