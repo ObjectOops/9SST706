@@ -52,3 +52,15 @@ A lot of key infrastructure relies on computing technology.
 ## Slide 7 - DHS
 
 - Although the CISA is an operational component of the DHS, the DHS also has its own role in cybersecurity.
+
+## Slide 8 - NIST
+
+- Note that NIST has roles besides those in cybersecurity.
+- Develops cybersecurity standards, guidelines, best practices, and other resources for everyone to use.
+    - They also keep track of CVEs.
+
+- NIST has developed new kinds of cryptography that are resilient to quantum computing attacks.
+
+- The OMB mandate may have come with or after the DHS recommendations.
+
+- The framework integrates cybersecurity, privacy, and supply chain risk management.
