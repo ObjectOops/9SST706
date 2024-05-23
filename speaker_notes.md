@@ -48,3 +48,7 @@ A lot of key infrastructure relies on computing technology.
     - They used seatbelts as an analogy.
     - Also noted that transparency is important. The Common Vulnerabilities and Exposures, or CVE, record system is widely used to catalog security issues in commonly used software. The quicker a known issue is assigned a CVE and its record is completed accurately, the quicker people can react to mitigate it.
 - CISA has received feedback from individuals, companies, trade associations, other government agencies, and from foreign agencies too, as shown to the right.
+
+## Slide 7 - DHS
+
+- Although the CISA is an operational component of the DHS, the DHS also has its own role in cybersecurity.

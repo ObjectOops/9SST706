@@ -55,6 +55,14 @@ src: ./pages/gao_ncs.md
 src: ./pages/agencies_overview.md
 ---
 
+---
+src: ./pages/cisa.md
+---
+
+---
+src: ./pages.dhs.md
+---
+
 # What is Slidev?
 
 Slidev is a slides maker and presenter designed for developers, consist of the following features
