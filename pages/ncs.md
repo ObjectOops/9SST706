@@ -4,8 +4,8 @@ layout: two-cols
 
 # National Cybersecurity Strategy
 
-- <CursorType :speed="10" :slide="4">The National Cybersecurity Strategy (NCS) is created by the White House and outlines five pillars to support the nation's cyberspace.</CursorType>
-- <CursorType :speed="10" :slide="4">The U.S. National Cybersecurity Strategy (NCS) was first created during the Trump administration. </CursorType>
+- <CursorType :speed="10" :slide="4">The [National Cybersecurity Strategy](https://www.whitehouse.gov/wp-content/uploads/2023/03/National-Cybersecurity-Strategy-2023.pdf) (NCS) is created by the White House and outlines five pillars to support the nation's cyberspace.</CursorType>
+- <CursorType :speed="10" :slide="4">The NCS was first created during the Trump administration. </CursorType>
 - <CursorType :speed="10" :slide="4">As of 2024, the current NCS is from the Biden administration.</CursorType>
 
 ::right::

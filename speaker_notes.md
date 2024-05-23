@@ -35,3 +35,16 @@ A lot of key infrastructure relies on computing technology.
 
 - A lot of agencies operate under their parent federal departments or are an operational arm as in the case with the CISA and the DHS.
 - This presentation covers some of the more prevalent ones.
+
+## Slide 6 - CISA
+
+- As mentioned before, the CISA is an operational component of the DHS.
+- It protects sixteen critical infrastructure sectors as listed. For example, election infrastructure would fall under the government facilities sector.
+- The CISA also collaborates other government departments for these sectors, namely the departments of energy, defense, and the treasury.
+- CISA must also work with the private sector.
+
+- A set of CISA's core principles is called "secure by design".
+- The general premise of these principles is for manufacturers to enable all security settings by default and keep security in mind when developing their products. Basically, security should be part of the product, not a separate thing that consumers or other companies have to search for.
+    - They used seatbelts as an analogy.
+    - Also noted that transparency is important. The Common Vulnerabilities and Exposures, or CVE, record system is widely used to catalog security issues in commonly used software. The quicker a known issue is assigned a CVE and its record is completed accurately, the quicker people can react to mitigate it.
+- CISA has received feedback from individuals, companies, trade associations, other government agencies, and from foreign agencies too, as shown to the right.
