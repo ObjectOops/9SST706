@@ -64,3 +64,10 @@ A lot of key infrastructure relies on computing technology.
 - The OMB mandate may have come with or after the DHS recommendations.
 
 - The framework integrates cybersecurity, privacy, and supply chain risk management.
+
+## Slide 9 - NSA
+
+- The NSA actually seems to have a lot of oversight placed on it.
+- Although these bodies are listed on the NSA own website.
+
+- This court is a specialized federal court established by COngress via Article III of the Constitution.
