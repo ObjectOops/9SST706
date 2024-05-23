@@ -72,5 +72,9 @@ src: ./pages/nsa.md
 ---
 
 ---
+src: ./pages/citations.md
+---
+
+---
 layout: end
 ---
