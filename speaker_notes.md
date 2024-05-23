@@ -70,4 +70,4 @@ A lot of key infrastructure relies on computing technology.
 - The NSA actually seems to have a lot of oversight placed on it.
 - Although these bodies are listed on the NSA own website.
 
-- This court is a specialized federal court established by COngress via Article III of the Constitution.
+- This court is a specialized federal court established by Congress via Article III of the Constitution.
