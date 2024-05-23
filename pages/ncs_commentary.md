@@ -12,7 +12,7 @@ layout: two-cols
 ::right::
 
 ### Possibly Partisan Differences
-- <CursorType :speed="10" :slide="5">Previous policies (Bush, Obama, Trump): avoided imposing strict regulations on the market due to the advantages that developing technologies could bring.</CursorType>
+- <CursorType :speed="10" :slide="5">Previous administrations (Bush, Obama, Trump): avoided imposing strict regulations on the market due to the advantages that emerging technologies could bring.</CursorType>
     - <CursorType :speed="10" :slide="5">The Trump administration's NCS emphasized market incentives.</CursorType>
 - <CursorType :speed="10" :slide="5">Biden administration NCS: asserts that the markets require more regulations.</CursorType>
     - <CursorType :speed="10" :slide="5">Explicitly calls for collaboration with the private sector.</CursorType>
