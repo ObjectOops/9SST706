@@ -1,6 +1,5 @@
 ---
-layout: image-right
-image: /dhs_seal.png
+layout: two-cols
 ---
 
 # DHS
@@ -10,3 +9,13 @@ image: /dhs_seal.png
 - <CursorType :speed="10" :slide="10">Works with the Office of Management and Budget (OMB) to ensure security across other agencies.</CursorType>
 - <CursorType :speed="10" :slide="10">Encourages adoption of NIST’s Framework for Improving Critical Infrastructure Cybersecurity.</CursorType>
 - <CursorType :speed="10" :slide="10">Encourages reporting incidents in general.</CursorType>
+
+::right::
+
+<img src="/dhs_seal.png">
+
+<style>
+img {
+    width: 600%
+}
+</style>

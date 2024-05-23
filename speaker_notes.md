@@ -49,6 +49,8 @@ A lot of key infrastructure relies on computing technology.
     - Also noted that transparency is important. The Common Vulnerabilities and Exposures, or CVE, record system is widely used to catalog security issues in commonly used software. The quicker a known issue is assigned a CVE and its record is completed accurately, the quicker people can react to mitigate it.
 - CISA has received feedback from individuals, companies, trade associations, other government agencies, and from foreign agencies too, as shown to the right.
 
+- CIRCIA is intended to be a step in consolidating the CISA's position.
+
 ## Slide 7 - DHS
 
 - Although the CISA is an operational component of the DHS, the DHS also has its own role in cybersecurity.
@@ -67,7 +69,7 @@ A lot of key infrastructure relies on computing technology.
 
 ## Slide 9 - NSA
 
-- The NSA actually seems to have a lot of oversight placed on it.
+- Despite well-known privacy concerns, the NSA actually seems to have a lot of oversight placed on it.
 - Although these bodies are listed on the NSA own website.
 
 - This court is a specialized federal court established by Congress via Article III of the Constitution.
