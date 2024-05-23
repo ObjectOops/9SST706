@@ -23,6 +23,7 @@ drawings:
 transition: slide-left
 # enable MDC Syntax: https://sli.dev/guide/syntax#mdc-syntax
 mdc: true
+download: true
 ---
 
 # U.S. Policy on Cybersecurity
