@@ -8,9 +8,7 @@ layout: two-cols
 - <CursorType :speed="10" :slide="10">Leads or co-leads efforts in ten of the sixteen sectors.</CursorType>
 - <CursorType :speed="10" :slide="10">Works with the Office of Management and Budget (OMB) to ensure security across other agencies.</CursorType>
 - <CursorType :speed="10" :slide="10">Encourages adoption of NIST’s Framework for Improving Critical Infrastructure Cybersecurity.</CursorType>
-- <CursorType :speed="10" :slide="10">Encourages reporting incidents in general.</CursorType>
-
-> ("U.S. DHS Cyber")
+- <CursorType :speed="10" :slide="10">Encourages reporting incidents in general. ("U.S. DHS Cyber")</CursorType>
 
 ::right::
 

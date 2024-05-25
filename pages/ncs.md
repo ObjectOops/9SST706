@@ -9,13 +9,13 @@ layout: two-cols
 - <CursorType :speed="10" :slide="4">The NCS was first created during the Trump administration. (Etame-Ese)</CursorType>
 - <CursorType :speed="10" :slide="4">As of 2024, the current NCS is from the Biden administration. (Mishra)</CursorType>
 
+> Image: Five pillars of the NCS.
+
 ::right::
 
 ###  Five Pillars
 ![NCS 1](/ncs_1.png)
 ![NCS 2](/ncs_2.png)
-
-> Five pillars of the NCS.
 
 <style>
 img {
