@@ -1,21 +1,22 @@
                                         Works Cited
 
-nistident_fleft_300ppi.jpg, 
-    https://www.commerce.gov/sites/default/files/media/images/branding/nistident_fleft_300ppi.jpg. 
-    Accessed 19 May 2024.
-Wikipedia, https://upload.wikimedia.org/wikipedia/commons/1/1f/CISA_Logo.png. Accessed 19 May 2024.
 “Central Security Service > About > Frequently Asked Questions (FAQ).” National Security Agency, 
     https://www.nsa.gov/about/faqs/. Accessed 18 May 2024.
 “Central Security Service > Culture > Operating Authorities.” National Security Agency, 
     https://www.nsa.gov/Culture/Operating-Authorities/. Accessed 18 May 2024.
+"CISA logo." “CISA_Logo.png (1831x1831)”, Wikipedia, 
+    https://upload.wikimedia.org/wikipedia/commons/1/1f/CISA_Logo.png. Accessed 19 May 2024.
 “Cybersecurity | NIST.” National Institute of Standards and Technology, 
     https://www.nist.gov/cybersecurity. Accessed 19 May 2024.
 Etame-Ese, Roncs, et al. “US Policy on the Use of Force in Cyberspace.” ISACA, 5 October 2021, 
     https://www.isaca.org/resources/isaca-journal/issues/2021/volume-5/us-policy-on-the-use-of-force-in-cyberspace. 
     Accessed 18 May 2024.
-“The Foreign Intelligence Surveillance Act of 1978 (FISA) | Bureau of Justice Assistance.” 
-    Bureau of Justice Assistance, https://bja.ojp.gov/program/it/privacy-civil-liberties/authorities/statutes/1286. 
-    Accessed 18 May 2024.
+"Five pillars of the NCS." “23-106826, Cybersecurity: Launching and Implementing the National Cybersecurity Strategy.” 
+    GAO, 1 June 2023, https://www.gao.gov/assets/gao-23-106826.pdf. Accessed 19 May 2024.
+"Global risks landscape: an interconnections map." 
+    “The US has announced its National Cybersecurity Strategy: Here's what you need to know.” 
+    The World Economic Forum, 9 March 2023, 
+    https://www.weforum.org/agenda/2023/03/us-national-cybersecurity-strategy/. Accessed 19 May 2024.
 Healey, Jason. “Twenty-Five Years of White House Cyber Policies.” Lawfare, 2 June 2023, 
     https://www.lawfaremedia.org/article/twenty-five-years-of-white-house-cyber-policies. 
     Accessed 19 May 2024.
@@ -27,25 +28,33 @@ Mishra, Vivek, et al. “Decoding the Biden Administration's Cyber Security Poli
     National Institute of Standards and Technology, 
     https://www.nist.gov/system/files/documents/2022/07/21/Extended%20Cybersecurity%20Vitals%20Fact%20Sheet.pdf. 
     Accessed 19 May 2024.
-“Our Insignia.” National Security Agency, 
+"NIST logo." “nistident_fleft_300ppi.jpg (490x225)”, United States Department of Commerce, 
+    https://www.commerce.gov/sites/default/files/media/images/branding/nistident_fleft_300ppi.jpg. 
+    Accessed 19 May 2024.
+"NSA insignia." “Our Insignia.” National Security Agency, 
     https://www.nsa.gov/History/Cryptologic-History/Insignia/. Accessed 19 May 2024.
-“Seal of the United States Department of Homeland Security.” Wikipedia, 
+"Seal of the DHS." “Seal of the United States Department of Homeland Security.” Wikipedia, 
     https://en.wikipedia.org/wiki/Seal_of_the_United_States_Department_of_Homeland_Security. 
     Accessed 19 May 2024.
 “Secure By Design.” CISA, 
     https://www.cisa.gov/sites/default/files/2023-10/SecureByDesign_1025_508c.pdf. Accessed 19 May 2024.
+"Secure By Design agencies." “Secure By Design.” CISA, 
+    https://www.cisa.gov/sites/default/files/2023-10/SecureByDesign_1025_508c.pdf. Accessed 19 May 2024.
 “10 U.S. Code § 201 - Certain intelligence officials: consultation and concurrence regarding 
     appointments; evaluation of performance.” Law.Cornell.Edu, 
     https://www.law.cornell.edu/uscode/text/10/201. Accessed 18 May 2024.
-“23-106826, Cybersecurity: Launching and Implementing the National Cybersecurity Strategy.” 
-    GAO, 1 June 2023, https://www.gao.gov/assets/gao-23-106826.pdf. Accessed 19 May 2024.
-“U.S. DEPARTMENT OF HOMELAND SECURITY CYBERSECURITY STRATEGY.” Homeland Security, 15 May 2018, 
-    https://www.dhs.gov/sites/default/files/publications/DHS-Cybersecurity-Strategy_1.pdf. 
-    Accessed 19 May 2024.
+“The Foreign Intelligence Surveillance Act of 1978 (FISA) | Bureau of Justice Assistance.” 
+    Bureau of Justice Assistance, https://bja.ojp.gov/program/it/privacy-civil-liberties/authorities/statutes/1286. 
+    Accessed 18 May 2024.
 “The US has announced its National Cybersecurity Strategy: Here's what you need to know.” 
     The World Economic Forum, 9 March 2023, 
     https://www.weforum.org/agenda/2023/03/us-national-cybersecurity-strategy/. Accessed 19 May 2024.
 “The U.S. Now Has a National Cybersecurity Strategy, but Is It as Strong as It Could Be?” 
     Government Accountability Office, 21 March 2024, 
     https://www.gao.gov/blog/u.s.-now-has-national-cybersecurity-strategy-it-strong-it-could-be. 
+    Accessed 19 May 2024.
+“23-106826, Cybersecurity: Launching and Implementing the National Cybersecurity Strategy.” 
+    GAO, 1 June 2023, https://www.gao.gov/assets/gao-23-106826.pdf. Accessed 19 May 2024.
+“U.S. DEPARTMENT OF HOMELAND SECURITY CYBERSECURITY STRATEGY.” Homeland Security, 15 May 2018, 
+    https://www.dhs.gov/sites/default/files/publications/DHS-Cybersecurity-Strategy_1.pdf. 
     Accessed 19 May 2024.
