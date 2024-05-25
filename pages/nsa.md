@@ -13,9 +13,11 @@ layout: two-cols
 - <CursorType :speed="10" :slide="12">Foreign Intelligence Surveillance Court</CursorType>
 - <CursorType :speed="10" :slide="12">Department of Defense</CursorType>
 - <CursorType :speed="10" :slide="12">Office of the Director of National Intelligence</CursorType>
-- <CursorType :speed="10" :slide="12">Department of Justice</CursorType>
-- <CursorType :speed="10" :slide="12">The Director of the NSA reports directly to the Secretary of Defense.</CursorType>
+- <CursorType :speed="10" :slide="12">Department of Justice ("Central Security Service > About")</CursorType>
+- <CursorType :speed="10" :slide="12">The Director of the NSA reports directly to the Secretary of Defense. ("10 U.S. Code § 201")</CursorType>
 
 ::right::
 
 ![NSA Insignia](/nsa_insignia.png)
+
+> NSA insignia.

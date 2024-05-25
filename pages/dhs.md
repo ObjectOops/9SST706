@@ -10,9 +10,13 @@ layout: two-cols
 - <CursorType :speed="10" :slide="10">Encourages adoption of NIST’s Framework for Improving Critical Infrastructure Cybersecurity.</CursorType>
 - <CursorType :speed="10" :slide="10">Encourages reporting incidents in general.</CursorType>
 
+> ("U.S. DHS Cyber")
+
 ::right::
 
 <img src="/dhs_seal.png">
+
+> Seal of the DHS.
 
 <style>
 img {

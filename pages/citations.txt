@@ -11,6 +11,8 @@
 Etame-Ese, Roncs, et al. “US Policy on the Use of Force in Cyberspace.” ISACA, 5 October 2021, 
     https://www.isaca.org/resources/isaca-journal/issues/2021/volume-5/us-policy-on-the-use-of-force-in-cyberspace. 
     Accessed 18 May 2024.
+"Five pillars of the NCS." “23-106826, Cybersecurity: Launching and Implementing the National Cybersecurity Strategy.” 
+    GAO, 1 June 2023, https://www.gao.gov/assets/gao-23-106826.pdf. Accessed 19 May 2024.
 "Global risks landscape: an interconnections map." 
     “The US has announced its National Cybersecurity Strategy: Here's what you need to know.” 
     The World Economic Forum, 9 March 2023, 
@@ -51,7 +53,7 @@ Mishra, Vivek, et al. “Decoding the Biden Administration's Cyber Security Poli
     Government Accountability Office, 21 March 2024, 
     https://www.gao.gov/blog/u.s.-now-has-national-cybersecurity-strategy-it-strong-it-could-be. 
     Accessed 19 May 2024.
-"Five pillars of the NCS." “23-106826, Cybersecurity: Launching and Implementing the National Cybersecurity Strategy.” 
+“23-106826, Cybersecurity: Launching and Implementing the National Cybersecurity Strategy.” 
     GAO, 1 June 2023, https://www.gao.gov/assets/gao-23-106826.pdf. Accessed 19 May 2024.
 “U.S. DEPARTMENT OF HOMELAND SECURITY CYBERSECURITY STRATEGY.” Homeland Security, 15 May 2018, 
     https://www.dhs.gov/sites/default/files/publications/DHS-Cybersecurity-Strategy_1.pdf. 

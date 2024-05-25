@@ -5,3 +5,5 @@
     - <CursorType :speed="10" :slide="6">Independent agency within the legislative branch</CursorType>
     - <CursorType :speed="10" :slide="6">Provides auditing and investigative services for Congress.</CursorType>
 - <CursorType :speed="10" :slide="6">The GAO thinks that the NCS is deficient in that it does not specify an objective means of measuring how well the policy is implemented.</CursorType>
+
+> ("The U.S. Now Has")
