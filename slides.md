@@ -84,5 +84,9 @@ src: ./pages/citations.md
 ---
 
 ---
+src: ./pages/conclusion.md
+---
+
+---
 layout: end
 ---
